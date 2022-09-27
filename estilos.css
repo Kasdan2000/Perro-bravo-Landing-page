@@ -25,14 +25,14 @@ body{
 
 
 .azul{
-    /* background-image:
+     background-image:
     radial-gradient(circle at 0% 0%, #0f185d, transparent 50%),
     radial-gradient(circle at 93% 10%, #5b6df5, transparent 25%),
     radial-gradient(circle at 0% 100%, #5468ff, transparent 25%),
     radial-gradient(circle at  100% 100%,  #0f1968, transparent 50%),
     radial-gradient(circle at center, #4a5ef5, transparent 1011%)
     
-    ; */
+    ; 
     
         background-repeat: no-repeat;
 
